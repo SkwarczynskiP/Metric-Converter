@@ -1,4 +1,4 @@
-Welcome to the Metric Conveter!
+Welcome to the Metric Converter!
 Please input your query. Valid query options are as followed:
 
 km-mi, mi-km,
